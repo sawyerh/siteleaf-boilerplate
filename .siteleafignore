@@ -1,9 +1,6 @@
 .DS_Store
 .sass-cache
 .git
-scripts/coffee/*.*
-styles/sass/*.*
 config/*.*
-Gemfile
-Guardfile
 Gemfile.lock
+Gemfile
