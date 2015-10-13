@@ -3,3 +3,6 @@
 Archive.zip
 *.gz
 config.ru
+.siteleaf.yml
+_site
+.jekyll-metadata

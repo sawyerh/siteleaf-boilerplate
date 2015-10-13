@@ -4,3 +4,6 @@
 config/*.*
 Gemfile.lock
 Gemfile
+.siteleaf.yml
+_site
+.jekyll-metadata
