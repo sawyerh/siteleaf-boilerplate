@@ -1,12 +1,12 @@
 ---
 ---
-@import 'toolbox';
+@import 'variables';
 
 * {
-  @include box-sizing(border-box)
+  box-sizing: border-box;
 }
 
 body{
-  background: #000;
+  background: $bg_body;
   color: #fff;
 }

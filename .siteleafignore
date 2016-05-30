@@ -1,7 +1,6 @@
 .DS_Store
 .sass-cache
 .git
-config/*.*
 Gemfile.lock
 Gemfile
 .siteleaf.yml

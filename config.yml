@@ -1,0 +1,14 @@
+---
+title: Siteleaf Boilerplate
+url: http://example.com
+collections:
+  posts:
+    title: Posts
+    output: true
+sass:
+  style: compressed
+exclude:
+- README.md
+- tmp/
+- node_modules/
+- bower_components/
